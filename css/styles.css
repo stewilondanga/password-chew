@@ -116,13 +116,13 @@ label, input {
   padding: 0 15px;
 }
 
-/*label {
-	margin-bottom: 10px;
-	font-size: 24px;
-	font-weight: 700;
+label {
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: 700;
 }
 
-input {
+/*input {
 	padding-top: 5px;
 	background: #302F52;
 	border-radius: 50px;
