@@ -11,6 +11,10 @@ body {
   background: #04334a;
 }
 
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
 /*
 .my_social {
   position: absolute;
@@ -25,12 +29,6 @@ body {
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-
-html {
-	font-family: 'Open Sans', sans-serif;
 }
 
 form {
