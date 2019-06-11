@@ -94,14 +94,14 @@ div.email:before {
   animation: drooling 10s infinite cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-/*div.email:after {
-	right: 14px;
-	width: 5px;
-	height: 16px;
-	animation: drooling 6s infinite cubic-bezier(0.19, 1, 0.22, 1);
+div.email:after {
+  right: 14px;
+  width: 5px;
+  height: 16px;
+  animation: drooling 6s infinite cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-div.field {
+/*div.field {
 	margin-bottom: 40px;
 }
 
