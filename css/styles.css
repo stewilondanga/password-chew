@@ -73,12 +73,12 @@ div.eyes>*:after {
   left: 17%;
 }
 
-/*.right:after {
-	bottom: 11px;
-	left: 35%;
+.right:after {
+  bottom: 11px;
+  left: 35%;
 }
 
-div.email:before,
+/*div.email:before,
 div.email:after {
 	content: '';
 	position: absolute;
