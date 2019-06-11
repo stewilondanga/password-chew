@@ -212,13 +212,19 @@ a:focus:after {
   box-shadow: inset 0 0 0 3px #302F52;
 }
 
-/*@keyframes drooling {
-	0% {}
-	30% {height: 40%;}
-	60% {height: 20%;}
+@keyframes drooling {
+  0% {}
+
+  30% {
+    height: 40%;
+  }
+
+  60% {
+    height: 20%;
+  }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
