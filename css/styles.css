@@ -42,13 +42,13 @@ div {
   position: relative;
 }
 
-/*div.eyes {
-	display: flex;
-	justify-content: space-between;
-	margin-bottom: 80px;
+div.eyes {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
 }
 
-div.eyes > * {
+/*div.eyes > * {
 	position: relative;
 	content: '';
 	--d: 80px;
