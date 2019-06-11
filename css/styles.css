@@ -68,12 +68,12 @@ div.eyes>*:after {
   border: 10px solid #302F52;
 }
 
-/*.left:after {
-	bottom: 17px;
-	left: 17%;
+.left:after {
+  bottom: 17px;
+  left: 17%;
 }
 
-.right:after {
+/*.right:after {
 	bottom: 11px;
 	left: 35%;
 }
