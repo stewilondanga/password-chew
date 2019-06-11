@@ -78,16 +78,16 @@ div.eyes>*:after {
   left: 35%;
 }
 
-/*div.email:before,
+div.email:before,
 div.email:after {
-	content: '';
-	position: absolute;
-	top: 72px;
-	background: #fff;
-	border-radius: 10px;
+  content: '';
+  position: absolute;
+  top: 72px;
+  background: #fff;
+  border-radius: 10px;
 }
 
-div.email:before {
+/*div.email:before {
 	right: 22px;
 	width: 8px;
 	height: 24px;
