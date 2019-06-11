@@ -105,11 +105,11 @@ div.field {
   margin-bottom: 40px;
 }
 
-/*div.field:last-child {
-	margin-bottom: 0;
+div.field:last-child {
+  margin-bottom: 0;
 }
 
-label, input {
+/*label, input {
 	display: block;
 	width: 100%;
 	color: #fff;
