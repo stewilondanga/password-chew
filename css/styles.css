@@ -165,16 +165,16 @@ div.link {
   text-align: center;
 }
 
-/*a {
-	position: relative;
-	margin: 0 auto;
-	color: #fff;
-	font-size: 14px;
-	text-decoration: none;
-	transition: all .5s cubic-bezier(0.19, 1, 0.22, 1);
+a {
+  position: relative;
+  margin: 0 auto;
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+  transition: all .5s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-a:after {
+/*a:after {
 	content: '';
 	position: absolute;
 	left: 0;
