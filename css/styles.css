@@ -48,17 +48,17 @@ div.eyes {
   margin-bottom: 80px;
 }
 
-/*div.eyes > * {
-	position: relative;
-	content: '';
-	--d: 80px;
-	height: var(--d);
-	width: var(--d);
-	background: #fff;
-	border-radius: 100%;
+div.eyes>* {
+  position: relative;
+  content: '';
+  --d: 80px;
+  height: var(--d);
+  width: var(--d);
+  background: #fff;
+  border-radius: 100%;
 }
 
-div.eyes > *:after {
+/*div.eyes > *:after {
 	position: absolute;
 	content: '';
 	height: 50%;
