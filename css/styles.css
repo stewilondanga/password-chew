@@ -58,17 +58,17 @@ div.eyes>* {
   border-radius: 100%;
 }
 
-/*div.eyes > *:after {
-	position: absolute;
-	content: '';
-	height: 50%;
-	width: 50%;
-	background: #000;
-	border-radius: 100%;
-	border: 10px solid #302F52;
+div.eyes>*:after {
+  position: absolute;
+  content: '';
+  height: 50%;
+  width: 50%;
+  background: #000;
+  border-radius: 100%;
+  border: 10px solid #302F52;
 }
 
-.left:after {
+/*.left:after {
 	bottom: 17px;
 	left: 17%;
 }
