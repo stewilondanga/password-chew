@@ -30,15 +30,15 @@ html {
   height: 1.5em;
 }
 
-/*form {
-	padding: 80px 60px 40px;
-	height: 600px;
-	width: 360px;
-	background: linear-gradient(148deg, #45D2FF 0%, #00A3D7 100%);
-	border-radius: 10px;
+form {
+  padding: 80px 60px 40px;
+  height: 600px;
+  width: 360px;
+  background: linear-gradient(148deg, #45D2FF 0%, #00A3D7 100%);
+  border-radius: 10px;
 }
 
-div {
+/*div {
 	position: relative;
 }
 
