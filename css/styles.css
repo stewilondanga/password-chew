@@ -87,14 +87,14 @@ div.email:after {
   border-radius: 10px;
 }
 
-/*div.email:before {
-	right: 22px;
-	width: 8px;
-	height: 24px;
-	animation: drooling 10s infinite cubic-bezier(0.19, 1, 0.22, 1);
+div.email:before {
+  right: 22px;
+  width: 8px;
+  height: 24px;
+  animation: drooling 10s infinite cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-div.email:after {
+/*div.email:after {
 	right: 14px;
 	width: 5px;
 	height: 16px;
