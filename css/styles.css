@@ -109,14 +109,14 @@ div.field:last-child {
   margin-bottom: 0;
 }
 
-/*label, input {
-	display: block;
-	width: 100%;
-	color: #fff;
-	padding: 0 15px;
+label, input {
+  display: block;
+  width: 100%;
+  color: #fff;
+  padding: 0 15px;
 }
 
-label {
+/*label {
 	margin-bottom: 10px;
 	font-size: 24px;
 	font-weight: 700;
